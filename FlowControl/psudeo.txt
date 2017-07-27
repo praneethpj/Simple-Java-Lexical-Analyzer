@@ -1,0 +1,7 @@
+start
+integer a=5
+integer b=1;
+if a<10
+a=a+b
+print a
+end
